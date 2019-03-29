@@ -1,9 +1,9 @@
 # Computer Vision Class
 
 Matlab implementation of important computer vision algorithms.
-[Link](https://github.com/yunsu3042/snu-2019-computer-vision/tree/master/HW1/matlab)
-## 1. Filters
 
+## 1. Filters
+[Link](https://github.com/yunsu3042/snu-2019-computer-vision/tree/master/HW1/matlab)
 Origin Image
 
 ![Imgur](https://i.imgur.com/zNpmprp.png)
